@@ -7,3 +7,5 @@ fixed a typo
 
 git push origin master
 edit master by kyle at 2017年3月15日15:15:16  啦啦
+
+Git tracks changes.
