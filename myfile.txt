@@ -8,4 +8,5 @@ pull 取得远端数据库的内容 issue3
 test fetch
 git fetch on github
 Creating a new branch is quick and simple.
+Creating a new branch is quick & simple.
 
