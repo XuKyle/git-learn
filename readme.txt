@@ -1,4 +1,6 @@
-Git is a version control system.
+normal fix on   difff chakan
+dev working no add
+git is a version control system.
 Git is free software.
 Git is a distributed version control system.
 Git is a FREE software. distribution under the GPL
